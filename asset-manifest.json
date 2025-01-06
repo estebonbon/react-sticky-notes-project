@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/new-notes-app/static/css/main.330e4fb3.css",
-    "main.js": "/new-notes-app/static/js/main.a5c0b0e4.js",
-    "static/media/feathers.jpg": "/new-notes-app/static/media/feathers.96e7cfe7495013c14bdb.jpg",
-    "index.html": "/new-notes-app/index.html",
-    "main.330e4fb3.css.map": "/new-notes-app/static/css/main.330e4fb3.css.map",
-    "main.a5c0b0e4.js.map": "/new-notes-app/static/js/main.a5c0b0e4.js.map"
+    "main.css": "/react-sticky-notes-project/static/css/main.b22df365.css",
+    "main.js": "/react-sticky-notes-project/static/js/main.a5c0b0e4.js",
+    "static/media/feathers.jpg": "/react-sticky-notes-project/static/media/feathers.96e7cfe7495013c14bdb.jpg",
+    "index.html": "/react-sticky-notes-project/index.html",
+    "main.b22df365.css.map": "/react-sticky-notes-project/static/css/main.b22df365.css.map",
+    "main.a5c0b0e4.js.map": "/react-sticky-notes-project/static/js/main.a5c0b0e4.js.map"
   },
   "entrypoints": [
-    "static/css/main.330e4fb3.css",
+    "static/css/main.b22df365.css",
     "static/js/main.a5c0b0e4.js"
   ]
 }
