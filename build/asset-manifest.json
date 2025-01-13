@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-sticky-notes-project/static/css/main.c1144fd5.css",
+    "main.js": "/react-sticky-notes-project/static/js/main.a5c0b0e4.js",
+    "index.html": "/react-sticky-notes-project/index.html",
+    "main.c1144fd5.css.map": "/react-sticky-notes-project/static/css/main.c1144fd5.css.map",
+    "main.a5c0b0e4.js.map": "/react-sticky-notes-project/static/js/main.a5c0b0e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1144fd5.css",
+    "static/js/main.a5c0b0e4.js"
+  ]
+}

@@ -2,12 +2,19 @@
   box-sizing: border-box;
 }
 
+
+
+html,
 body {
   margin: 0;
   padding: 0;
+  height: 100%;
+  overflow: scroll;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(to bottom, #78c2d0, #a4d4ae)
 }
+
 
 input,
 textarea {
@@ -22,12 +29,19 @@ textarea {
   margin: 0;
 }
 
-.app-header__title {
-  margin: 10px 20px 0px;
+.app-header_title {
+  display: flex;
+  margin: 10px 20px 20px 20px;
   font-family: Arial, sans-serif;
+  justify-content: center;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5); /* Black with 50% transparency */
+  padding: 10px; /* Add padding to make the background visible around text */
+  border-radius: 5px; /* Optional: Rounded corners for aesthetics */
 }
 
-.app-header__controls {
+
+.app-header_controls {
   display: flex;
   align-items: center;
   margin: 10px 0 0 10px;
@@ -43,6 +57,8 @@ textarea {
 .search {
   flex-grow: 1;
   max-width: 300px;
+  border-radius: 10px;
+  height: 35px;
 }
 
 .add-new {
